@@ -1,6 +1,4 @@
-# CatCompiler 🐾 (versión Python)
-
-Port a Python del intérprete CatCompiler (fase 1: Lexer + REPL). **Limón** 🐈 te acompaña.
+# CatCompiler (versión Python)
 
 ## Estructura
 
